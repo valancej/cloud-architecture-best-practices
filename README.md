@@ -8,7 +8,7 @@ In order to support increased amounts of users, traffic, and data size without c
 
 ### Vertical Scaling: 
 
-Scaling vertially involves increasing specifications on a specific resources. As an example, spinning down a VM in either Azure or AWS EC2, increasing memory/system/storage resources, and then starting up the VM again would accomplish this. There is however, an eventual cap on resources when doing this singularly. Moreover, this can often require significant resource downtime, thus leading to less than optimal system availability.
+Scaling vertically involves increasing specifications on specific resources. As an example, spinning down a VM in either Azure or AWS EC2, increasing memory/system/storage specs, and then starting up the VM again would accomplish this. There is however, an eventual cap on resources when doing this singularly. Moreover, this can often require significant resource downtime, thus leading to less than optimal system availability.
 
 ### Horizonal Scaling: 
 
