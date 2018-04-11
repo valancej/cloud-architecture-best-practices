@@ -4,7 +4,7 @@ Outline of common best practices for architecting highly available, scalable, di
 
 ## Scalablity
 
-In order to support increased amounts of users, traffic, and data size without compromising performance, systems must be designed to scale appropriately. There are two main ways to achieve scalablity of systems and resources within cloud proviers:  
+In order to support increased amounts of users, traffic, and data size without compromising performance, systems must be designed to scale appropriately. There are two main ways to achieve scalablity of systems and resources within cloud providers:  
 
 ### Vertical Scaling: 
 
