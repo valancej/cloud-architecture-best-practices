@@ -13,3 +13,8 @@ Scaling vertically involves increasing specifications on specific resources. As 
 ### Horizonal Scaling: 
 
 Scaling horizontally involves increasing the number of resources (ex. adding additional VMs to support an application's needs). Depending on what the architecture of an application allows, this can be a great option for distribution of workloads across multiple servers to meet demand. Amazon's Elastic Load Balancer is an example of a service that provides load balancing and support across multiple VMs for increased elasticity.
+
+
+## Infrastructure as Code
+
+
