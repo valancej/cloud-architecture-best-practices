@@ -17,4 +17,12 @@ Scaling horizontally involves increasing the number of resources (ex. adding add
 
 ## Infrastructure as Code
 
+Infrastructure as Code is a process of managing and provisioning of infrastructure (VMs, networks, load balancers) with a declartive approach which setting configurations for these resources using definition files (Azure Resource Manager Templates or AWS CloudFormation templates). 
 
+Benefits: 
+
+* Flexibility and acceleration of deployment.
+* Reusability: Templates can be altered to repeat a similar deployment.
+* Idempotence: Always the same configuration, regardless of the environment's starting state. 
+
+DevOps teams who implement IaC will be able to deliver stable environments rapily and at scale. Unified best practices can easily be implemented as these teams expand. 
