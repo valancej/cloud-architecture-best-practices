@@ -17,7 +17,7 @@ Scaling horizontally involves increasing the number of resources (ex. adding add
 
 ## Infrastructure as Code
 
-Infrastructure as Code is the process of managing and provisioning infrastructure (VMs, networks, load balancers) with a declaritive approach which setting configurations for these resources using definition files (Azure Resource Manager Templates or AWS CloudFormation templates). 
+Infrastructure as Code is the process of managing and provisioning infrastructure (VMs, networks, load balancers) with a declaritive approach while setting configurations for these resources using definition files (Azure Resource Manager Templates or AWS CloudFormation templates). 
 
 Benefits: 
 
