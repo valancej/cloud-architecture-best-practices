@@ -26,3 +26,11 @@ Benefits:
 * Idempotence: Always the same configuration, regardless of the environment's starting state. 
 
 DevOps teams who implement IaC will be able to deliver stable environments rapily and at scale. Unified best practices can easily be implemented as these teams expand. 
+
+## Automation
+
+Automation within cloud providers allows you to automate tasks that may be error prone, costly, or unstable. This can free up engineering teams to focus on constant improvements of these processes without getting bogged down with mundane tasks. Automation grealy improves the efficiency of engineering teams, while allowing these teams to lower their operational costs. 
+
+There are several tools which allow for automation:
+
+* 
