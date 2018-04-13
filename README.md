@@ -33,8 +33,8 @@ Automation within cloud providers allows you to automate tasks that may be error
 
 There are several tools which allow for automation:
 
-* Auto Scaling in both Azure and AWS allow uses to maintain application availablity along with the ability to scale VM capacity up or down automatically. Users can also use availablity zones to ensure you are running the appropriate number of virtual machine instances across these zones to meet demand. Leveraging auto scaling groups spread across AZs allows for increased application availability should an AZ or VM become unstable or unhealthy. 
+* Auto Scaling in both Azure and AWS allow users to maintain application availablity along with the ability to scale VM capacity up or down automatically. Users can also use availablity zones to ensure they are running the appropriate number of virtual machine instances across these zones to meet demand. Leveraging auto scaling groups spread across AZs allows for increased application availability should an AZ or VM become unstable or unhealthy. 
 
-* AWS Elastic allows users to deploy applications and let AWS take care of provisioning the appropriate resources, scaling the application when necessary, and configure the application for health monitoring. 
+* AWS Elastic Beanstalk allows users to deploy applications and let AWS take care of provisioning the appropriate resources, scaling the application when necessary, and configuring the application for health monitoring. 
 
-* AWS CloudWatch allows users to monitor for specific events across their provisioned resources/services and be notified if a metric goes beyond a threshold. These monitors can also trigger over events in the case of a failure. 
+* AWS CloudWatch allows users to monitor for specific events across their provisioned resources/services and be notified if a metric goes beyond a threshold. These monitors can also trigger other events in the case of a failure. 
